@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: d9a1dcc14e8ecf040bd88c8a6d57757d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8818168437985251386
+    second: Gunshot_Spritesheet_0
+  - first:
+      213: 6177332264213162937
+    second: Gunshot_Spritesheet_1
+  - first:
+      213: -8081627949905296100
+    second: Gunshot_Spritesheet_2
+  - first:
+      213: 8700167477488853815
+    second: Gunshot_Spritesheet_3
+  - first:
+      213: -3111115467296911042
+    second: Gunshot_Spritesheet_4
+  - first:
+      213: 3775615663568007635
+    second: Gunshot_Spritesheet_5
+  - first:
+      213: -2484173918746049498
+    second: Gunshot_Spritesheet_6
+  - first:
+      213: -2100854258838791913
+    second: Gunshot_Spritesheet_7
+  - first:
+      213: -6310294933744566470
+    second: Gunshot_Spritesheet_8
+  - first:
+      213: 1871114397342848672
+    second: Gunshot_Spritesheet_9
+  - first:
+      213: 1306644836018788800
+    second: Gunshot_Spritesheet_10
+  - first:
+      213: -51632591430163057
+    second: Gunshot_Spritesheet_11
+  - first:
+      213: 3622136342203787509
+    second: Gunshot_Spritesheet_12
+  - first:
+      213: 6026670601823501147
+    second: Gunshot_Spritesheet_13
+  - first:
+      213: 6848598632208978991
+    second: Gunshot_Spritesheet_14
+  - first:
+      213: -1310726963290514313
+    second: Gunshot_Spritesheet_15
+  - first:
+      213: -4392998008984477969
+    second: Gunshot_Spritesheet_16
+  - first:
+      213: 460027136600417956
+    second: Gunshot_Spritesheet_17
+  - first:
+      213: 5801609838369860579
+    second: Gunshot_Spritesheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gunshot_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a301ca3497d606a70800000000000000
+      internalID: 8818168437985251386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb2cf327fa4ab550800000000000000
+      internalID: 6177332264213162937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15c607a23a48df80800000000000000
+      internalID: -8081627949905296100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunshot_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2a73f57f6d4544599d4178ed0e8bfc
+      internalID: 8700167477488853815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a73e65256de19774ca6d1b916647fc70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":143.0,"y":95.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gunshot_Spritesheet_0: 8818168437985251386
+      Gunshot_Spritesheet_1: 6177332264213162937
+      Gunshot_Spritesheet_2: -8081627949905296100
+      Gunshot_Spritesheet_3: 8700167477488853815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

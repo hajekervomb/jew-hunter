@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - WeaponCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1238224891
+    locked: 0
+  - name: Blood
+    uniqueID: 3182181715
+    locked: 0
+  - name: Characters
+    uniqueID: 3441402163
+    locked: 0
+  - name: Player
+    uniqueID: 1224989359
+    locked: 0
+  - name: Foreground
+    uniqueID: 4032595445
+    locked: 0
+  m_RenderingLayers:
+  - Default
