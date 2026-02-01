@@ -22,8 +22,9 @@ namespace AssHunter
 
         public delegate void OnShootAction();
         public static OnShootAction onShoot;
-
-        [SerializeField] private Animator weaponAnimator;
+        
+        [SerializeField] private GameObject shotEffectPrefab;
+        [SerializeField] private GameObject shotEffectSpawnPoint;
 
         void Awake()
         {
@@ -62,13 +63,23 @@ namespace AssHunter
 
                 playerUI.UpdateAmmoUI(currentAmmo, magazineSize);
 
-                weaponAnimator.SetTrigger("Shoot");
+                
+                SpawnShotEffect();
                 
                 Debug.Log("Fired a shot! Remaining ammo: " + currentAmmo);
             }
             else
             {
                 Debug.Log("Out of ammo! Reload needed.");
+            }
+        }
+
+        private void SpawnShotEffect()
+        {
+            // Логика создания эффекта выстрела
+            if (shotEffectPrefab != null)
+            {
+                Instantiate(shotEffectPrefab, shotEffectSpawnPoint.transform.position, shotEffectSpawnPoint.transform.rotation);
             }
         }
 

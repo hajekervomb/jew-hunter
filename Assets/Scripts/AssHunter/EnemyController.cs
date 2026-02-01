@@ -72,6 +72,7 @@ namespace AssHunter
                 isDestroyed = true;
                 OnEnemyDestroyed?.Invoke();
                 onEnemyDestroyed?.Invoke();
+                
                 gameObject.GetComponent<CircleCollider2D>().enabled = false;
                 gameObject.GetComponent<BoxCollider2D>().enabled = false;  
                 
@@ -104,14 +105,7 @@ namespace AssHunter
                 DestroyEnemy();
                 
             }          
-        }
-
-        public void OnGameOver()
-        {
-            Debug.Log("Game Over - Enemy Stopping");
-        }
-
-        
+        }    
     }
 }
 

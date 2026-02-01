@@ -12,21 +12,7 @@ namespace AssHunter
             DisableHitZone();
         }
 
-        // void OnTriggerEnter2D(Collider2D other)
-        // {
-        //     if (other.GetComponent<EnemyController>() != null)
-        //     {   
-        //         //if (hasHit) return;
-        //         var enemy = other.GetComponentInParent<EnemyController>();
-        //         //hasHit = true;
-        //         //if (enemy == null) return;
-        //         Debug.Log("Enemy hit!");
-        //         // Here you can add logic to deal damage to the enemy
-                
-        //         DisableHitZone();
-        //         enemy.DestroyEnemy();
-        //     }
-        // }
+        
 
         void OnDisable()
         {
